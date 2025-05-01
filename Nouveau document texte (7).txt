@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>InfoBot - 10 000 Questions-Réponses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        img.logo {
+            max-width: 150px;
+            margin-bottom: 20px;
+        }
+        .qa {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 10px;
+        }
+        .question {
+            font-weight: bold;
+        }
+        .reponse {
+            margin-top: 5px;
+        }
+        audio {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <img src="istockphoto-1492548051-1024x1024.jpg" alt="Logo" class="logo">
+    <h1>InfoBot - 10 000 Questions-Réponses</h1>
+
+    <!-- Questions-Réponses -->
+    <div class="qa">
+        <div class="question">Question 1 : Quelle est la capitale de la France ?</div>
+        <div class="reponse">Réponse : Paris.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 2 : Combien font 12 × 12 ?</div>
+        <div class="reponse">Réponse : 144.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 3 : Quel est l'élément chimique H₂O ?</div>
+        <div class="reponse">Réponse : L'eau.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 4 : Qui a peint La Joconde ?</div>
+        <div class="reponse">Réponse : Léonard de Vinci.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 5 : Quel est le plus grand océan du monde ?</div>
+        <div class="reponse">Réponse : L'océan Pacifique.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 6 : Quelle planète est la plus proche du Soleil ?</div>
+        <div class="reponse">Réponse : Mercure.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 7 : Quel est le résultat de 100 ÷ 4 ?</div>
+        <div class="reponse">Réponse : 25.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 8 : En quelle année a eu lieu le premier homme sur la Lune ?</div>
+        <div class="reponse">Réponse : En 1969.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 9 : Quel est le plus grand désert du monde ?</div>
+        <div class="reponse">Réponse : L'Antarctique.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+
+    <div class="qa">
+        <div class="question">Question 10 : Que signifie "www" dans une adresse internet ?</div>
+        <div class="reponse">Réponse : World Wide Web.</div>
+        <audio controls>
+            <source src="voice.mp3" type="audio/mpeg">
+            Votre navigateur ne supporte pas l'audio.
+        </audio>
+    </div>
+</body>
+</html>
